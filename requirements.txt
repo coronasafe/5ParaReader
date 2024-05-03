@@ -73,7 +73,7 @@ tenacity==8.2.3
 tifffile==2024.2.12
 torch==2.2.1
 torchvision==0.17.1
-tqdm==4.66.2
+tqdm==4.66.3
 triton==2.2.0
 typing-inspect==0.9.0
 typing_extensions==4.10.0
